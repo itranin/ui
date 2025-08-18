@@ -5,12 +5,72 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Reader firmware downloader</title>
     <link rel="stylesheet" href="styles.css">
+    <script>
+
+/*
+fetch('https://itranin.github.io/ui/fw.html')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    return response.text();  })
+  .then(data => {
+    document.getElementById('webfw').innerHTML = data; // Вставляем данные
+  })
+  .catch(error => {
+    console.error('There has been a problem with your fetch operation:', error);
+  });
+*/
+
+async function getFWlist() {
+    try {
+        const response = await fetch('https://pejeng.tech/api/fw/esp32?raw=true');
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        const jsonData = await response.json();
+         // grouping jsonData by gitSHA
+        jsonData2 = jsonData.reduce((acc, item) => {
+                    const { fileName, gitAuthor, gitComment, gitSha, branch, timestampPretty, url } = item;
+                    if (!acc[gitSha]) {
+                        acc[gitSha] = { fwUrl: '', fsUrl: '', blUrl: '', date: timestampPretty, comment: gitComment, branch, gitSHA: gitSha, author: gitAuthor };
+                    }
+                    if (fileName.endsWith('ino.bin')) {
+                        acc[gitSha].fwUrl = url;
+                    } else if (fileName.endsWith('fs.bin')) {
+                        acc[gitSha].fsUrl = url;
+                    } else if (fileName.endsWith('bootloader.bin')) {
+                        acc[gitSha].blUrl = url;
+                    }
+                    return acc;
+                }, {});
+            const data = Object.values(jsonData2).filter(item => item.fwUrl || item.fsUrl || item.blUrl);
+                            
+            const tableBody = document.querySelector('tbody');
+            tableBody.innerHTML = ''; // Clear existing rows
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td><a href="${item.fwUrl}">[FW]</a> <a href="${item.fsUrl}">[FS]</a> <a href="${item.blUrl}">[BL]</a></td>
+                    <td>${new Date(item.date).toISOString()}</td>
+                    <td>${item.comment}</td>
+                    <td>${item.branch}</td>
+                    <td>${item.gitSHA}</td>
+                    <td>${item.author}</td>
+                `;
+                tableBody.appendChild(row);
+            });
+        } catch (error) {
+            console.error('Error fetching firmware list:', error);
+        }
+    }
+    </script>
 </head>
-<body>
+<body onload="getFWlist()">
     <table>
         <thead>
             <tr>
-                <th<label>Файл</label></th>
+                <th>Файл</th>
                 <th>Дата</th>
                 <th>Комментарий</th>
                 <th>Branch</th>
