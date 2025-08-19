@@ -1,0 +1,530 @@
+[
+    {
+        "fwUrl": "/api/fw/esp32/c19cf6cd0679c26bac03c9b48e44e07981e2ba54/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/c19cf6cd0679c26bac03c9b48e44e07981e2ba54/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/c19cf6cd0679c26bac03c9b48e44e07981e2ba54/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-08-19T02:57:07.000Z",
+        "branch": "main",
+        "gitSha": "c19cf6cd0679c26bac03c9b48e44e07981e2ba54"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/d0bdb354aa3e28f8056f7aedb54f3eba0e9844f7/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/d0bdb354aa3e28f8056f7aedb54f3eba0e9844f7/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/d0bdb354aa3e28f8056f7aedb54f3eba0e9844f7/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-08-15T09:06:21.000Z",
+        "branch": "main",
+        "gitSha": "d0bdb354aa3e28f8056f7aedb54f3eba0e9844f7"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/014588103f56388e095da2182d74f233d6c5320f/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/014588103f56388e095da2182d74f233d6c5320f/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/014588103f56388e095da2182d74f233d6c5320f/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-08-14T15:05:25.000Z",
+        "branch": "main",
+        "gitSha": "014588103f56388e095da2182d74f233d6c5320f"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/b349e9fa48c713270f936e4d455fd554fd718602/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/b349e9fa48c713270f936e4d455fd554fd718602/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/b349e9fa48c713270f936e4d455fd554fd718602/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-08-13T09:48:29.000Z",
+        "branch": "main",
+        "gitSha": "b349e9fa48c713270f936e4d455fd554fd718602"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/0493acad7f158ae5a86111a3955ebbcbc1a3122a/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/0493acad7f158ae5a86111a3955ebbcbc1a3122a/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/0493acad7f158ae5a86111a3955ebbcbc1a3122a/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-08-11T18:41:11.000Z",
+        "branch": "main",
+        "gitSha": "0493acad7f158ae5a86111a3955ebbcbc1a3122a"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/a3a69803983d6fe39035d6c5ea6645bfedb2aa86/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/a3a69803983d6fe39035d6c5ea6645bfedb2aa86/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/a3a69803983d6fe39035d6c5ea6645bfedb2aa86/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-08-10T20:47:13.000Z",
+        "branch": "main",
+        "gitSha": "a3a69803983d6fe39035d6c5ea6645bfedb2aa86"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/a62bdcebe8a4c5f321d66ed5cb037cb084516f5d/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/a62bdcebe8a4c5f321d66ed5cb037cb084516f5d/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/a62bdcebe8a4c5f321d66ed5cb037cb084516f5d/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-08-04T18:55:42.000Z",
+        "branch": "main",
+        "gitSha": "a62bdcebe8a4c5f321d66ed5cb037cb084516f5d"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/6f2240dc634c05b1fc406defad166a1b46bb7877/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/6f2240dc634c05b1fc406defad166a1b46bb7877/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/6f2240dc634c05b1fc406defad166a1b46bb7877/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-08-04T10:20:51.000Z",
+        "branch": "main",
+        "gitSha": "6f2240dc634c05b1fc406defad166a1b46bb7877"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/b51e00d8b32077ad2ef070cc67518ce602b2c3e8/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/b51e00d8b32077ad2ef070cc67518ce602b2c3e8/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/b51e00d8b32077ad2ef070cc67518ce602b2c3e8/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-08-01T08:47:07.000Z",
+        "branch": "main",
+        "gitSha": "b51e00d8b32077ad2ef070cc67518ce602b2c3e8"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/8d945d8f1ce9e7f618a98e1adf4f62d498ac9062/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/8d945d8f1ce9e7f618a98e1adf4f62d498ac9062/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/8d945d8f1ce9e7f618a98e1adf4f62d498ac9062/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-08-01T08:26:13.000Z",
+        "branch": "main",
+        "gitSha": "8d945d8f1ce9e7f618a98e1adf4f62d498ac9062"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/7709fbebdefed2f4848c8d1f0502efe099f9586b/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/7709fbebdefed2f4848c8d1f0502efe099f9586b/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/7709fbebdefed2f4848c8d1f0502efe099f9586b/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-07-11T21:03:15.000Z",
+        "branch": "main",
+        "gitSha": "7709fbebdefed2f4848c8d1f0502efe099f9586b"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/3be93ad822ea663e0f0ed1b0325c8dd5e540b1bc/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/3be93ad822ea663e0f0ed1b0325c8dd5e540b1bc/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/3be93ad822ea663e0f0ed1b0325c8dd5e540b1bc/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-07-10T21:00:53.000Z",
+        "branch": "main",
+        "gitSha": "3be93ad822ea663e0f0ed1b0325c8dd5e540b1bc"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/50ecdb454a1495301329a8e9f355a07804ba3e17/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/50ecdb454a1495301329a8e9f355a07804ba3e17/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/50ecdb454a1495301329a8e9f355a07804ba3e17/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-07-10T08:23:01.000Z",
+        "branch": "main",
+        "gitSha": "50ecdb454a1495301329a8e9f355a07804ba3e17"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/cffce117fae3992deb91392cc6698568a57194d1/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/cffce117fae3992deb91392cc6698568a57194d1/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/cffce117fae3992deb91392cc6698568a57194d1/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-06-26T14:04:30.000Z",
+        "branch": "main",
+        "gitSha": "cffce117fae3992deb91392cc6698568a57194d1"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/554579436c96762d4ca50e6fd88df79e52581ea7/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/554579436c96762d4ca50e6fd88df79e52581ea7/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/554579436c96762d4ca50e6fd88df79e52581ea7/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-02-20T17:48:08.000Z",
+        "branch": "main",
+        "gitSha": "554579436c96762d4ca50e6fd88df79e52581ea7"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/9b910eec09f9a26e7e07d469ad5029ce23998244/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/9b910eec09f9a26e7e07d469ad5029ce23998244/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/9b910eec09f9a26e7e07d469ad5029ce23998244/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-02-13T12:59:29.000Z",
+        "branch": "main",
+        "gitSha": "9b910eec09f9a26e7e07d469ad5029ce23998244"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/99256066e233bbcfdd93d729895badf597d3da45/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/99256066e233bbcfdd93d729895badf597d3da45/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/99256066e233bbcfdd93d729895badf597d3da45/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-02-12T16:08:05.000Z",
+        "branch": "main",
+        "gitSha": "99256066e233bbcfdd93d729895badf597d3da45"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/cb5938e29b6cc7b1b9e82e63bca08148b5aea80e/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/cb5938e29b6cc7b1b9e82e63bca08148b5aea80e/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/cb5938e29b6cc7b1b9e82e63bca08148b5aea80e/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-02-12T14:14:46.000Z",
+        "branch": "main",
+        "gitSha": "cb5938e29b6cc7b1b9e82e63bca08148b5aea80e"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/edd5295e8609a65fdd5914063554313d8b327c50/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/edd5295e8609a65fdd5914063554313d8b327c50/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/edd5295e8609a65fdd5914063554313d8b327c50/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-02-11T13:55:10.000Z",
+        "branch": "main",
+        "gitSha": "edd5295e8609a65fdd5914063554313d8b327c50"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/f0d56644fa2363cb69a032de25566ecf033c794b/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/f0d56644fa2363cb69a032de25566ecf033c794b/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/f0d56644fa2363cb69a032de25566ecf033c794b/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-02-10T20:09:49.000Z",
+        "branch": "main",
+        "gitSha": "f0d56644fa2363cb69a032de25566ecf033c794b"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/35e9e7b9b902c7391d1e41597bbb0fde1cb4c9ca/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/35e9e7b9b902c7391d1e41597bbb0fde1cb4c9ca/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/35e9e7b9b902c7391d1e41597bbb0fde1cb4c9ca/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2025-02-04T06:36:34.000Z",
+        "branch": "main",
+        "gitSha": "35e9e7b9b902c7391d1e41597bbb0fde1cb4c9ca"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/252ec22ccad515d6d1aafc71710148847317db43/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/252ec22ccad515d6d1aafc71710148847317db43/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/252ec22ccad515d6d1aafc71710148847317db43/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-10-09T18:28:51.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "252ec22ccad515d6d1aafc71710148847317db43"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/e626b03a575c45490101661827efec28fed86549/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/e626b03a575c45490101661827efec28fed86549/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/e626b03a575c45490101661827efec28fed86549/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-10-08T21:18:23.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "e626b03a575c45490101661827efec28fed86549"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/56f189eb0ce8eda576faaa3e215ea6f77c5aad9e/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/56f189eb0ce8eda576faaa3e215ea6f77c5aad9e/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/56f189eb0ce8eda576faaa3e215ea6f77c5aad9e/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-10-03T16:56:27.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "56f189eb0ce8eda576faaa3e215ea6f77c5aad9e"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/ab4555d619a2f2bcb235f29343a896cdfa5987ff/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/ab4555d619a2f2bcb235f29343a896cdfa5987ff/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/ab4555d619a2f2bcb235f29343a896cdfa5987ff/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T08:46:49.000Z",
+        "branch": "yanUi",
+        "gitSha": "ab4555d619a2f2bcb235f29343a896cdfa5987ff"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/9478b8351d3a71fc993f976d98da55196a17a30b/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/9478b8351d3a71fc993f976d98da55196a17a30b/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/9478b8351d3a71fc993f976d98da55196a17a30b/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T08:36:16.000Z",
+        "branch": "yanUi",
+        "gitSha": "9478b8351d3a71fc993f976d98da55196a17a30b"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/fd3098fd20b21d60fa580f7a939ed6850c94fa45/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/fd3098fd20b21d60fa580f7a939ed6850c94fa45/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/fd3098fd20b21d60fa580f7a939ed6850c94fa45/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T08:27:20.000Z",
+        "branch": "yanUi",
+        "gitSha": "fd3098fd20b21d60fa580f7a939ed6850c94fa45"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/f0159a5602b010983f734569dcba001e1a940112/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/f0159a5602b010983f734569dcba001e1a940112/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/f0159a5602b010983f734569dcba001e1a940112/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T08:23:17.000Z",
+        "branch": "yanUi",
+        "gitSha": "f0159a5602b010983f734569dcba001e1a940112"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/83cd9cb69ff850d92065bc36c2c1b344810fdade/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/83cd9cb69ff850d92065bc36c2c1b344810fdade/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/83cd9cb69ff850d92065bc36c2c1b344810fdade/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T08:18:26.000Z",
+        "branch": "yanUi",
+        "gitSha": "83cd9cb69ff850d92065bc36c2c1b344810fdade"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/852069b3114010d2f87e23433056c79cf8acc958/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/852069b3114010d2f87e23433056c79cf8acc958/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/852069b3114010d2f87e23433056c79cf8acc958/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T07:59:29.000Z",
+        "branch": "yanUi",
+        "gitSha": "852069b3114010d2f87e23433056c79cf8acc958"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/0657a865f0b3866548d862eed57add7879af97b4/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/0657a865f0b3866548d862eed57add7879af97b4/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/0657a865f0b3866548d862eed57add7879af97b4/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T07:53:35.000Z",
+        "branch": "yanUi",
+        "gitSha": "0657a865f0b3866548d862eed57add7879af97b4"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/93739809e0892f9b5f20b39ba631394bc98f0ba6/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/93739809e0892f9b5f20b39ba631394bc98f0ba6/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/93739809e0892f9b5f20b39ba631394bc98f0ba6/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T05:39:06.000Z",
+        "branch": "yanUi",
+        "gitSha": "93739809e0892f9b5f20b39ba631394bc98f0ba6"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/6afda1b904d297ff2dbc50db6d8493ed9045b9d1/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/6afda1b904d297ff2dbc50db6d8493ed9045b9d1/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/6afda1b904d297ff2dbc50db6d8493ed9045b9d1/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T05:33:13.000Z",
+        "branch": "yanUi",
+        "gitSha": "6afda1b904d297ff2dbc50db6d8493ed9045b9d1"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/27fdcbfdc3c1b11df245b6e751587d0153579f50/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/27fdcbfdc3c1b11df245b6e751587d0153579f50/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/27fdcbfdc3c1b11df245b6e751587d0153579f50/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T04:06:35.000Z",
+        "branch": "yanUi",
+        "gitSha": "27fdcbfdc3c1b11df245b6e751587d0153579f50"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/dc1bc54266654f8de8431a61e588eddc6294ca64/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/dc1bc54266654f8de8431a61e588eddc6294ca64/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/dc1bc54266654f8de8431a61e588eddc6294ca64/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-06T03:30:53.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "dc1bc54266654f8de8431a61e588eddc6294ca64"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/d58928c3e3618b857b9d82575bc9cf62eccb6ed7/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/d58928c3e3618b857b9d82575bc9cf62eccb6ed7/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/d58928c3e3618b857b9d82575bc9cf62eccb6ed7/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T12:26:53.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "d58928c3e3618b857b9d82575bc9cf62eccb6ed7"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/7d1e462e272aa481569dacd56d29bf7e471b3030/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/7d1e462e272aa481569dacd56d29bf7e471b3030/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/7d1e462e272aa481569dacd56d29bf7e471b3030/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T11:38:24.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "7d1e462e272aa481569dacd56d29bf7e471b3030"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/420dd14885f74d7662958292107390f68c204437/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/420dd14885f74d7662958292107390f68c204437/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/420dd14885f74d7662958292107390f68c204437/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T11:36:54.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "420dd14885f74d7662958292107390f68c204437"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/65b0231f6cb94e6c65d23f9c68173c3d1ac20458/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/65b0231f6cb94e6c65d23f9c68173c3d1ac20458/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/65b0231f6cb94e6c65d23f9c68173c3d1ac20458/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T11:32:01.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "65b0231f6cb94e6c65d23f9c68173c3d1ac20458"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/f51f7842f9e3d23d887b03eea7c7b0cef4b498ec/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/f51f7842f9e3d23d887b03eea7c7b0cef4b498ec/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/f51f7842f9e3d23d887b03eea7c7b0cef4b498ec/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T11:29:48.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "f51f7842f9e3d23d887b03eea7c7b0cef4b498ec"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/bde51d7857479714f72d2f1ad94e0ceacd32ab05/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/bde51d7857479714f72d2f1ad94e0ceacd32ab05/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/bde51d7857479714f72d2f1ad94e0ceacd32ab05/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T11:25:15.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "bde51d7857479714f72d2f1ad94e0ceacd32ab05"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/9e643723d0dbe99ff87752720d82843449ef47fd/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/9e643723d0dbe99ff87752720d82843449ef47fd/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/9e643723d0dbe99ff87752720d82843449ef47fd/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T11:20:07.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "9e643723d0dbe99ff87752720d82843449ef47fd"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/925253275a47c67fcc84fbec77fa650c57ac5e15/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/925253275a47c67fcc84fbec77fa650c57ac5e15/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/925253275a47c67fcc84fbec77fa650c57ac5e15/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T11:16:06.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "925253275a47c67fcc84fbec77fa650c57ac5e15"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/33ad4165671918f2f193cab84b4eb12dd2a498ed/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/33ad4165671918f2f193cab84b4eb12dd2a498ed/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/33ad4165671918f2f193cab84b4eb12dd2a498ed/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T11:02:09.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "33ad4165671918f2f193cab84b4eb12dd2a498ed"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/40d4670702e1f3439334ce6358c5baeaf2c0f325/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/40d4670702e1f3439334ce6358c5baeaf2c0f325/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/40d4670702e1f3439334ce6358c5baeaf2c0f325/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T11:00:54.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "40d4670702e1f3439334ce6358c5baeaf2c0f325"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/8b9aab028fa5305bf6ed02ac8bd64d21f38e7aa9/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/8b9aab028fa5305bf6ed02ac8bd64d21f38e7aa9/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/8b9aab028fa5305bf6ed02ac8bd64d21f38e7aa9/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T10:40:32.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "8b9aab028fa5305bf6ed02ac8bd64d21f38e7aa9"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/340a5ddb8b418d16473b8eccff155c9d461f7971/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/340a5ddb8b418d16473b8eccff155c9d461f7971/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/340a5ddb8b418d16473b8eccff155c9d461f7971/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T05:17:49.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "340a5ddb8b418d16473b8eccff155c9d461f7971"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/e2c38a8a4302828fd898a08d6322a2363ad87125/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/e2c38a8a4302828fd898a08d6322a2363ad87125/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/e2c38a8a4302828fd898a08d6322a2363ad87125/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T04:44:45.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "e2c38a8a4302828fd898a08d6322a2363ad87125"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/aff2832480c876a30ed7686d6ebba524b456c7d0/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/aff2832480c876a30ed7686d6ebba524b456c7d0/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/aff2832480c876a30ed7686d6ebba524b456c7d0/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-05T01:55:58.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "aff2832480c876a30ed7686d6ebba524b456c7d0"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/8cfcbe99eb1352d73b752a19f5a9eae2f2fb58a2/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/8cfcbe99eb1352d73b752a19f5a9eae2f2fb58a2/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/8cfcbe99eb1352d73b752a19f5a9eae2f2fb58a2/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-04T16:43:32.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "8cfcbe99eb1352d73b752a19f5a9eae2f2fb58a2"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/23d0eb06bcf41d2213a612b4144446507128b4be/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/23d0eb06bcf41d2213a612b4144446507128b4be/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/23d0eb06bcf41d2213a612b4144446507128b4be/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-04T10:23:21.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "23d0eb06bcf41d2213a612b4144446507128b4be"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/cc74e581eb9e42a633448ef2f40844889cb02736/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/cc74e581eb9e42a633448ef2f40844889cb02736/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/cc74e581eb9e42a633448ef2f40844889cb02736/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-04T10:12:57.000Z",
+        "branch": "main",
+        "gitSha": "cc74e581eb9e42a633448ef2f40844889cb02736"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/97c8793962cf60b594008e6f046bd30a764231f8/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/97c8793962cf60b594008e6f046bd30a764231f8/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/97c8793962cf60b594008e6f046bd30a764231f8/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-04T09:58:52.000Z",
+        "branch": "main",
+        "gitSha": "97c8793962cf60b594008e6f046bd30a764231f8"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/70991f2a724aadd13422163b1374a0a5e79e5ca8/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/70991f2a724aadd13422163b1374a0a5e79e5ca8/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/70991f2a724aadd13422163b1374a0a5e79e5ca8/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-02T11:41:38.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "70991f2a724aadd13422163b1374a0a5e79e5ca8"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/21642a0463e6921c4203aa79775291d704bf5fbd/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/21642a0463e6921c4203aa79775291d704bf5fbd/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/21642a0463e6921c4203aa79775291d704bf5fbd/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-09-02T10:22:01.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "21642a0463e6921c4203aa79775291d704bf5fbd"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/a196ee4181676a9de1bf84282acfe4d59074ae9f/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/a196ee4181676a9de1bf84282acfe4d59074ae9f/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/a196ee4181676a9de1bf84282acfe4d59074ae9f/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-28T12:37:19.000Z",
+        "branch": "main",
+        "gitSha": "a196ee4181676a9de1bf84282acfe4d59074ae9f"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/ab32455f4f37a25670d194cf611b9b3740e5ecdc/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/ab32455f4f37a25670d194cf611b9b3740e5ecdc/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/ab32455f4f37a25670d194cf611b9b3740e5ecdc/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-28T12:34:42.000Z",
+        "branch": "shell",
+        "gitSha": "ab32455f4f37a25670d194cf611b9b3740e5ecdc"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/4b327c06204f04a5b286656e8822fa4c4902f8d4/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/4b327c06204f04a5b286656e8822fa4c4902f8d4/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/4b327c06204f04a5b286656e8822fa4c4902f8d4/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-28T10:23:47.000Z",
+        "branch": "crocozyabra",
+        "gitSha": "4b327c06204f04a5b286656e8822fa4c4902f8d4"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/3ab29790cf84086586e8a580d552c3becd2a87a9/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/3ab29790cf84086586e8a580d552c3becd2a87a9/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/3ab29790cf84086586e8a580d552c3becd2a87a9/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-28T06:05:22.000Z",
+        "branch": "shell",
+        "gitSha": "3ab29790cf84086586e8a580d552c3becd2a87a9"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/d89cab5aefaea0906094dc1028610da8540427a2/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/d89cab5aefaea0906094dc1028610da8540427a2/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/d89cab5aefaea0906094dc1028610da8540427a2/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-28T05:58:14.000Z",
+        "branch": "shell",
+        "gitSha": "d89cab5aefaea0906094dc1028610da8540427a2"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/caf41d99a0870d3591832d8c03635d756e462764/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/caf41d99a0870d3591832d8c03635d756e462764/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/caf41d99a0870d3591832d8c03635d756e462764/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-28T04:09:47.000Z",
+        "branch": "shell",
+        "gitSha": "caf41d99a0870d3591832d8c03635d756e462764"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/1ae18a76be1ad985a86683982ffd0d7aff5910b4/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/1ae18a76be1ad985a86683982ffd0d7aff5910b4/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/1ae18a76be1ad985a86683982ffd0d7aff5910b4/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-28T03:58:17.000Z",
+        "branch": "shell",
+        "gitSha": "1ae18a76be1ad985a86683982ffd0d7aff5910b4"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/8acf6f79b9f452c0e0da4e5f5ac377d3dbdd0d47/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/8acf6f79b9f452c0e0da4e5f5ac377d3dbdd0d47/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/8acf6f79b9f452c0e0da4e5f5ac377d3dbdd0d47/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-28T03:55:56.000Z",
+        "branch": "shell",
+        "gitSha": "8acf6f79b9f452c0e0da4e5f5ac377d3dbdd0d47"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/bcd1c58d8db6e4fc81df29f3e839409c0d0ac61e/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/bcd1c58d8db6e4fc81df29f3e839409c0d0ac61e/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/bcd1c58d8db6e4fc81df29f3e839409c0d0ac61e/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-28T03:24:32.000Z",
+        "branch": "shell",
+        "gitSha": "bcd1c58d8db6e4fc81df29f3e839409c0d0ac61e"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/eb6a6dca14a4ff52b09a532561be1a44f934d375/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/eb6a6dca14a4ff52b09a532561be1a44f934d375/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/eb6a6dca14a4ff52b09a532561be1a44f934d375/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-26T10:09:49.000Z",
+        "branch": "shell",
+        "gitSha": "eb6a6dca14a4ff52b09a532561be1a44f934d375"
+    },
+    {
+        "fwUrl": "/api/fw/esp32/59a99de880bd3320389720c9c02791df6cfc540d/esp32-reader.ino.bin?token=esp32isverycool",
+        "fsUrl": "/api/fw/esp32/59a99de880bd3320389720c9c02791df6cfc540d/esp32-reader.fs.bin?token=esp32isverycool",
+        "blUrl": "/api/fw/esp32/59a99de880bd3320389720c9c02791df6cfc540d/esp32-reader.ino.bootloader.bin?token=esp32isverycool",
+        "date": "2024-08-18T14:09:37.000Z",
+        "branch": "shell",
+        "gitSha": "59a99de880bd3320389720c9c02791df6cfc540d"
+    }
+]
