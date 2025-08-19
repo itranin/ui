@@ -30,10 +30,25 @@ async function getFWlist() {
         }
         const jsonData = await response.json();
          // grouping jsonData by gitSHA
+        jsonData2 = jsonData.reduce((acc, item) => {
+                    const { fileName, gitAuthor, gitComment, gitSha, branch, timestampPretty, url } = item;
+                    if (!acc[gitSha]) {
+                        acc[gitSha] = { fwUrl: '', fsUrl: '', blUrl: '', date: timestampPretty, gitComment, branch, gitSha, gitAuthor };
+                    }
+                    if (fileName.endsWith('ino.bin')) {
+                        acc[gitSha].fwUrl = url;
+                    } else if (fileName.endsWith('fs.bin')) {
+                        acc[gitSha].fsUrl = url;
+                    } else if (fileName.endsWith('bootloader.bin')) {
+                        acc[gitSha].blUrl = url;
+                    }
+                    return acc;
+                }, {});
+            const data = Object.values(jsonData2).filter(item => item.fwUrl || item.fsUrl || item.blUrl);
                             
             const tableBody = document.querySelector('tbody');
             tableBody.innerHTML = '';
-            jsonData.forEach(item => {
+            data.forEach(item => {
                 const row = document.createElement('tr');
                 row.innerHTML = `
                     <td><a href="${item.fwUrl}">[FW]</a> <a href="${item.fsUrl}">[FS]</a> <a href="${item.blUrl}">[BL]</a></td>
