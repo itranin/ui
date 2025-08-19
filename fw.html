@@ -24,7 +24,8 @@ fetch('https://itranin.github.io/ui/fw.html')
 
 async function getFWlist() {
     try {
-        const response = await fetch('https://pejeng.tech/api/fw/esp32/?raw=true&token=esp32isverycool',{mode: 'cors'});
+        const response = await fetch('https://pejeng.tech/api/fw/esp32/?raw=true',
+		{headers:{"token":"esp32isverycool"}, mode: "cors"});
         if (!response.ok) {
             throw new Error('Network response was not ok');
         }
