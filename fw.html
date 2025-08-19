@@ -28,22 +28,34 @@ async function getFWlist() {
         if (!response.ok) {
             throw new Error('Network response was not ok');
         }
-        const jsonData = await response.json();
-         // grouping jsonData by gitSHA
+            var jsonData = await response.json();
+         // grouping jsonData by gitSHA removed
                             
             const tableBody = document.querySelector('tbody');
             tableBody.innerHTML = '';
             jsonData.forEach(item => {
                 const row = document.createElement('tr');
-                row.innerHTML = `
+ /*
+               row.innerHTML = `
                     <td><a href="${item.fwUrl}">[FW]</a> <a href="${item.fsUrl}">[FS]</a> <a href="${item.blUrl}">[BL]</a></td>
-                    <td>${new Date(item.date).toISOString()}</td>
-                    <td>${item.gitCcomment}</td>
+                    <td>${item.timeStampPretty}</td>
+                    <td>${item.gitComment}</td>
                     <td>${item.branch}</td>
                     <td>${item.gitSha}</td>
                     <td>${item.gitAuthor}</td>
                 `;
-                tableBody.appendChild(row);
+ */
+                // remove milliseconds from timestampPretty               
+                // (last 6 symbols)
+                item.timestampPretty = item.timestampPretty.slice(0, -5);
+                row.innerHTML = `
+                    <td><a href="${item.fwUrl}">[FW]</a> <a href="${item.fsUrl}">[FS]</a> <a href="${item.blUrl}">[BL]</a></td>
+                    <td>${item.timestampPretty}</td>
+                    <td>${item.branch}</td>
+                    <td>${item.gitSha}</td>
+                `;
+
+               tableBody.appendChild(row);
             });
         } catch (error) {
             console.error('Error fetching firmware list:', error);
@@ -57,10 +69,8 @@ async function getFWlist() {
             <tr>
                 <th>Файл</th>
                 <th>Дата</th>
-                <th>Комментарий</th>
                 <th>Branch</th>
                 <th>gitSHA</th>
-                <th>Автор</th>
             </tr>
         </thead>
         <tbody></tbody>
